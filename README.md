@@ -1,2 +1,2 @@
 # pythonchallenge
-All challenges solutions of https://pythonprinciples.com/challenges/ 
+All challenge solutions of https://pythonprinciples.com/challenges/ 
